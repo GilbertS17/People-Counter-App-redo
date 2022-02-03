@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXdSfgN7sMEGfUp8ucHHmBldIQdggxbWkBCQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    font-family:  'Arial Narrow', Arial, sans-serif, 'Franklin Gothic Medium';
+    text-align: center;
+}
+button {
+    border: black;
+    background-color: red;
+    width: 225px;
+    text-align: center;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 8px 0px 8px 0px;
+    font-size: 1em;
+}
+
+#increment-el:hover {
+    background-color: rgb(255, 77, 77);   
+}
+#save-el:hover {
+    background-color: rgb(255, 77, 77);
+}
+p {
+    font-size: 1.6em;
+}
+h1 {
+    font-size: 3em;
+}
